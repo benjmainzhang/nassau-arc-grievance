@@ -2,7 +2,23 @@
 
 A free skill that helps Nassau County, NY homeowners prepare their own property tax grievance with the Assessment Review Commission (ARC). Claude works out what your assessment implies your home is worth, screens the recent sales AROW gives you, picks the honest comparables, and drafts the Part D note and a requested value. You file it yourself in AROW.
 
-> **Unofficial.** This project is not affiliated with, endorsed by, or connected to Nassau County, the Assessment Review Commission, or the Department of Assessment. It is general help, not legal or tax advice. You are responsible for everything you submit, and you certify it is accurate when you file.
+> **Use at your own risk.** This is an unofficial, unsupported hobby project. It is not legal, tax, financial or appraisal advice, it comes with no warranty of any kind, and it may be wrong or out of date. You are solely responsible for what you file. Read the full [disclaimer](#disclaimer--use-at-your-own-risk) before using it.
+
+## Disclaimer – use at your own risk
+
+By installing or using this skill, you agree to the following:
+
+- **Not professional advice.** Nothing produced by this skill or by Claude while using it is legal, tax, financial, real estate or appraisal advice. No attorney-client, advisor-client or other professional relationship is created. For advice about your situation, consult a licensed attorney, tax professional or appraiser.
+- **AI makes mistakes.** Claude can misread documents, miscalculate, pick unsuitable comparable sales, or state rules, rates and dates incorrectly. Check every figure, comparable sale, date and statement against the original county records before you rely on it.
+- **No guarantee of results.** Using this skill does not guarantee a reduction in your assessment or taxes, or any particular outcome. Past results described anywhere in this project are illustrative only.
+- **Rules change.** Filing deadlines, ARC's level of assessment, the sales window and county procedures change every year and may change without notice. Confirm everything with the [Assessment Review Commission](https://www.nassaucountyny.gov/arc) before filing. Missing a deadline because you relied on this project is your responsibility.
+- **You are responsible for your filing.** You decide what to submit, and you certify its accuracy when you file. Never submit information you have not verified or that you know to be inaccurate.
+- **Unofficial and unaffiliated.** This project is not affiliated with, endorsed by or connected to Nassau County, the Assessment Review Commission, the Department of Assessment, or Anthropic. "Claude" is a product of Anthropic; this skill is an independent, community-made add-on.
+- **Your data.** Documents and details you share with Claude are handled under Anthropic's terms and privacy policy, not by this project. Decide for yourself what you are comfortable sharing.
+- **No warranty, no liability.** This project is provided "as is", without warranty of any kind, express or implied. To the fullest extent permitted by law, the authors and contributors are not liable for any loss, damage, missed deadline, tax liability, penalty or other consequence arising from its use. See the [LICENSE](LICENSE) for full terms.
+- **No support.** There is no obligation to answer questions, fix problems or keep this project up to date.
+
+If you do not agree with these terms, do not use this skill.
 
 ## Who it's for
 
@@ -36,6 +52,8 @@ If you use Google Chrome with the Claude extension, Claude can read the pages di
 ## Example prompt
 
 > I want to grieve my Nassau property taxes for the coming year. Attached are my property's Values page, both pages of my AROW sales list, and last year's ARC settlement. I bought the house in 2019 for $950K. Which comps should I pick, and what should I write in Part D?
+
+Treat Claude's answer as a starting draft. Check every sale, number and date against the county's own pages before you file anything.
 
 ## When to use it
 
